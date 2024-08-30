@@ -6,10 +6,10 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "O Clube de Futebol Flamengo é um dos clubes mais tradicionais do Brasil?",
+        enunciado: "O Flamengo tem uma rica história que remonta ao final do século XIX e é conhecido por sua importância no cenário futebolístico brasileiro.",
         alternativas: [
             {
-                texto: "O Flamengo tem uma rica história que remonta ao final do século XIX e é conhecido por sua importância no cenário futebolístico brasileiro.",
+                texto: "O Flamengo foi fundado em 17 de novembro de 1895.",
                 afirmacao: "afirmativo1."
             },
             {
@@ -32,7 +32,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "O Flamengo joga suas partidas no estádio mais icônico do Rio de Janeiro?",
+        enunciado: "O Flamengo joga suas partidas no estádio mais icônico do Rio de Janeiro.",
         alternativas: [
             {
                 texto: "O Flamengo manda seus jogos no Estádio do Maracanã",
