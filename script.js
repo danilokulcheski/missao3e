@@ -19,10 +19,10 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "O Flamengo é um dos clubes mais vitoriosos do Campeonato Brasileiro?",
+        enunciado: "O clube tem uma trajetória marcante no Campeonato Brasileiro, com várias conquistas ao longo dos anos.",
         alternativas: [
             {
-                texto: "O clube tem uma trajetória marcante no Campeonato Brasileiro, com várias conquistas ao longo dos anos.",
+                texto: "O Flamengo venceu o Campeonato Brasileiro pela primeira vez em 1980",
                 afirmacao: "afirmacao3"
             },
             {
@@ -32,14 +32,14 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Como podemos incentivar o uso de energia solar e outras formas de energia limpa, especialmente em comunidades carentes?",
+        enunciado: "O Flamengo joga suas partidas no estádio mais icônico do Rio de Janeiro?",
         alternativas: [
             {
-                texto: "Defendendo políticas públicas que subsidiem a energia solar para famílias de baixa renda.",
+                texto: "O Flamengo manda seus jogos no Estádio do Maracanã",
                 afirmacao: "afirmacao5"
             },
             {
-                texto: "Promovendo a instalação de painéis solares em escolas e centros comunitários de comunidades marginalizadas.",
+                texto: "O Estádio do Maracanã tem capacidade para mais de 78 mil espectadores.",
                 afirmacao: "afirmacao6"
             }
         ]
