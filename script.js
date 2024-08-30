@@ -13,7 +13,7 @@ const perguntas = [
                 afirmacao: "afirmativo1."
             },
             {
-                texto: "Denunciando atos de discriminação e apoiando políticas públicas inclusivas.",
+                texto: "O Flamengo foi fundado em 17 de novembro de 1895.O Flamengo foi fundado em 17 de novembro de 1895.",
                 afirmacao: "afirmacao2"
             }
         ]
