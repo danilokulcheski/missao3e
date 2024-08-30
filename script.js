@@ -23,10 +23,10 @@ const perguntas = [
         alternativas: [
             {
                 texto: "O clube tem uma trajetória marcante no Campeonato Brasileiro, com várias conquistas ao longo dos anos.",
-                afirmacao: "O Flamengo conquistou 8 títulos do Campeonato Brasileiro até 2024"
+                afirmacao: "afirmacao3"
             },
             {
-                texto: "Educando amigos e familiares sobre os perigos das fake news e incentivando-os a não compartilhar conteúdos falsos que perpetuam o racismo.",
+                texto: "O Flamengo conquistou 8 títulos do Campeonato Brasileiro até 2024.",
                 afirmacao: "afirmacao4"
             }
         ]
