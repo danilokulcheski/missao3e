@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "O Flamengo tem uma rica história que remonta ao final do século XIX e é conhecido por sua importância no cenário futebolístico brasileiro.",
-                afirmacao: " O Flamengo foi fundado em 17 de novembro de 1895."
+                afirmacao: "afirmativo1."
             },
             {
                 texto: "Denunciando atos de discriminação e apoiando políticas públicas inclusivas.",
