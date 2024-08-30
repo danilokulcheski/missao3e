@@ -10,10 +10,10 @@ const perguntas = [
         alternativas: [
             {
                 texto: "O Flamengo foi fundado em 17 de novembro de 1895.",
-                afirmacao: "afirmativo1."
+                afirmacao: "O Flamengo foi fundado em 17 de novembro de 1895 como um clube de regatas, refletindo a popularidade do remo no Brasil da época. Com o tempo, o clube se expandiu para o futebol, tornando-se uma das maiores potências esportivas do país.."
             },
             {
-                texto: "O Flamengo foi fundado em 17 de novembro de 1895.O Flamengo foi fundado em 17 de novembro de 1895.",
+                texto: "O Flamengo foi fundado em 17 de novembro de 1895.",
                 afirmacao: "afirmacao2"
             }
         ]
