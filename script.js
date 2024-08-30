@@ -14,7 +14,7 @@ const perguntas = [
             },
             {
                 texto: "O Flamengo foi fundado originalmente como um clube de regatas antes de se tornar um time de futebol.",
-                afirmacao: "afirmacao2"
+                afirmacao: "O Flamengo foi fundado como um clube de regatas em 1895 devido à popularidade do remo na época. O futebol foi adicionado ao clube em 1911."
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "O Flamengo venceu o Campeonato Brasileiro pela primeira vez em 1980",
-                afirmacao: "afirmacao3"
+                afirmacao: "O Flamengo venceu o Campeonato Brasileiro pela primeira vez em 1980 devido ao seu forte elenco e excelente desempenho durante a competição, destacando-se com jogadores talentosos como Zico."
             },
             {
                 texto: "O Flamengo conquistou 8 títulos do Campeonato Brasileiro até 2024.",
-                afirmacao: "afirmacao4"
+                afirmacao: "O Flamengo conquistou 8 títulos do Campeonato Brasileiro até 2024 devido à sua consistência, investimentos em elencos fortes e gestão eficaz ao longo dos anos."
             }
         ]
     },
@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "O Flamengo manda seus jogos no Estádio do Maracanã",
-                afirmacao: "afirmacao5"
+                afirmacao: "O Flamengo manda seus jogos no Estádio do Maracanã por sua grande capacidade e importância histórica no Rio de Janeiro."
             },
             {
                 texto: "O Estádio do Maracanã tem capacidade para mais de 78 mil espectadores.",
-                afirmacao: "afirmacao6"
+                afirmacao: "O Estádio do Maracanã tem capacidade para mais de 78 mil espectadores devido ao seu projeto original e reformas para acomodar grandes eventos."
             }
         ]
     }
